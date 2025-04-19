@@ -13,6 +13,9 @@ This is an index to university tools.
   - Other Useful Tools: [https://github.com/BatchClayderman/ToolsBox](https://github.com/BatchClayderman/ToolsBox)
 - Ph.D.
   - FinTech
-    - [https://github.com/BatchClayderman/FinTech_CCST9080_2023-2024-2](https://github.com/BatchClayderman/FinTech_CCST9080_2023-2024-2)
-    - [https://github.com/BatchClayderman/FinTech_CCST9080_2024-2025-2](https://github.com/BatchClayderman/FinTech_CCST9080_2024-2025-2)
+    - 2023-2024-2: [https://github.com/BatchClayderman/FinTech_CCST9080_2023-2024-2](https://github.com/BatchClayderman/FinTech_CCST9080_2023-2024-2)
+    - 2024-2025-2: [https://github.com/BatchClayderman/FinTech_CCST9080_2024-2025-2](https://github.com/BatchClayderman/FinTech_CCST9080_2024-2025-2)
   - CEDARS Anti Scam Learning Kit: [https://github.com/BatchClayderman/CEDARS-Anti-Scam-Learning-Kit](https://github.com/BatchClayderman/CEDARS-Anti-Scam-Learning-Kit)
+  - LaTeX
+    - Multiple typesetting styles for one paper: [https://github.com/BatchClayderman/onePaperMultipleTypesettingStyles](https://github.com/BatchClayderman/onePaperMultipleTypesettingStyles)
+    - LaTeX Checker: [https://github.com/BatchClayderman/LaTeXChecker](https://github.com/BatchClayderman/LaTeXChecker)
