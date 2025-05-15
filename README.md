@@ -9,6 +9,7 @@ This is an index to university tools.
   - Tools in My Fourth Term: [https://github.com/BatchClayderman/MyFourthTerm](https://github.com/BatchClayderman/MyFourthTerm)
   - Tools in My Fifth Term: [https://github.com/BatchClayderman/MyFifthTerm](https://github.com/BatchClayderman/MyFifthTerm)
   - Tools in My Sixth Term: [https://github.com/BatchClayderman/MySixthTerm](https://github.com/BatchClayderman/MySixthTerm)
+  - LaTeX Template of Thesis: [https://github.com/BatchClayderman/LaTeX4JNUBachelor](https://github.com/BatchClayderman/LaTeX4JNUBachelor)
   - Some ACM Success Codes: [https://github.com/BatchClayderman/someAC](https://github.com/BatchClayderman/someAC)
   - Other Useful Tools: [https://github.com/BatchClayderman/ToolsBox](https://github.com/BatchClayderman/ToolsBox)
 - Ph.D.
