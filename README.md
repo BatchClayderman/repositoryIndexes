@@ -98,3 +98,13 @@ This is an index to my GitHub repositories of personal repositories.
 - Aobi Island Guidelines: [https://github.com/BatchClayderman/aobiIsland](https://github.com/BatchClayderman/aobiIsland)
 - Some backups: [https://github.com/BatchClayderman/backups](https://github.com/BatchClayderman/backups)
 - A backup of KMDF file deletion during the way to GooseBt: [https://github.com/BatchClayderman/windows-kernel-file-delete](https://github.com/BatchClayderman/windows-kernel-file-delete) forked from [https://github.com/Rhydon1337/windows-kernel-file-delete](https://github.com/Rhydon1337/windows-kernel-file-delete)
+
+## Organization Repositories
+
+- [Universe Organization](https://github.com/Universe-Organization)
+  - [GooseBt Studio](https://github.com/GooseBt-Studio)
+    - [Cloud-inspired Music Team](https://github.com/Cloud-inspired-Music-Team)
+    - [Proposition Group Scheme Team](https://github.com/Proposition-Group-Scheme-Team)
+    - [TMLP Team](https://github.com/TMLP-Team)
+    - [Win Linux DOS Team](https://github.com/Win-Linux-DOS-Team)
+  - Other Studios
