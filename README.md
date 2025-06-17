@@ -10,7 +10,7 @@ This is an index to my GitHub repositories for academic purposes.
   - Collection of cryptography schemes: [https://github.com/BatchClayderman/Cryptography-Schemes](https://github.com/BatchClayderman/Cryptography-Schemes)
   - Collection of top-$k$ optimal pattern querying algorithms: [https://github.com/BatchClayderman/topKMining](https://github.com/BatchClayderman/topKMining)
   - Collection of top-$k$ nearest neighbor (NN) querying algorithms: [https://github.com/BatchClayderman/KNNAlgorithms](https://github.com/BatchClayderman/KNNAlgorithms)
-- Repositories created for academic papaers
+- Repositories created for academic papers
   - ML prediction model (1): [https://github.com/BatchClayderman/ML-Prediction-Model](https://github.com/BatchClayderman/ML-Prediction-Model)
   - General image classification model training architecture (3): [https://github.com/BatchClayderman/ResNet-Distribution](https://github.com/BatchClayderman/ResNet-Distribution)
   - CEEMDAN-SE-GWO-LSTM algorithm (17): [https://github.com/BatchClayderman/CEEMDAN-SE-GWO-LSTM](https://github.com/BatchClayderman/CEEMDAN-SE-GWO-LSTM)
@@ -31,14 +31,11 @@ This is an index to my GitHub repositories for academic purposes.
   - Dynamic merge-join algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/dynamicMergeJoin](https://github.com/BatchClayderman/dynamicMergeJoin)
   - Key-spatial querying algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/keySpatialQuerying](https://github.com/BatchClayderman/keySpatialQuerying)
   - NSL-KDD for an unsubmitted paper: [https://github.com/BatchClayderman/NSL-KDD](https://github.com/BatchClayderman/NSL-KDD)
-- Assistance for other GitHub repositories
+- Optimization of other GitHub repositories
   - Python charm cryptography library: [https://github.com/BatchClayderman/charm](https://github.com/BatchClayderman/charm) forked from [https://github.com/JHUISI/charm](https://github.com/JHUISI/charm)
   - Graph Mamba for Windows: [https://github.com/BatchClayderman/Graph-Mamba-for-Windows](https://github.com/BatchClayderman/Graph-Mamba-for-Windows) forked from [https://github.com/bowang-lab/Graph-Mamba](https://github.com/bowang-lab/Graph-Mamba)
-- Production-level repositories forked for storing
   - OneTrainer: [https://github.com/BatchClayderman/OneTrainer](https://github.com/BatchClayderman/OneTrainer) forked from [https://github.com/Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer)
   - OneTester: [https://github.com/BatchClayderman/OneTester](https://github.com/BatchClayderman/OneTester) forked from [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-  - 
-  - 
 
 ## For Engineering
 
@@ -67,7 +64,7 @@ This is an index to my GitHub repositories for engineering purposes.
 
 ## University Tools
 
-This is an index to university tools. 
+This is an index to my GitHub repositories about university tools. 
 
 - Undergraduate
   - Tools in My First Term: [https://github.com/BatchClayderman/MyFirstTerm](https://github.com/BatchClayderman/MyFirstTerm)
@@ -94,7 +91,7 @@ This is an index to university tools.
 
 ## Personal Repositories
 
-This is an index to my personal repositories. 
+This is an index to my GitHub repositories of personal repositories. 
 
 - Source codes of my GitHub homepage: [https://github.com/BatchClayderman/BatchClayderman](https://github.com/BatchClayderman/BatchClayderman)
 - This repository: [https://github.com/BatchClayderman/repositoryIndexes](https://github.com/BatchClayderman/repositoryIndexes)
