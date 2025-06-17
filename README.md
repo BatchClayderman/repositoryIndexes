@@ -2,7 +2,7 @@
 
 Here are the indexes to my GitHub repositories. 
 
-## For Academic
+## For Academics
 
 This is an index to my GitHub repositories for academic purposes. 
 
