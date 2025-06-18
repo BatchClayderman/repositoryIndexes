@@ -30,12 +30,12 @@ This is an index to my GitHub repositories for academic purposes.
   - UWC for an unsubmitted paper: [https://github.com/BatchClayderman/UWC](https://github.com/BatchClayderman/UWC)
   - Dynamic merge-join algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/dynamicMergeJoin](https://github.com/BatchClayderman/dynamicMergeJoin)
   - Key-spatial querying algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/keySpatialQuerying](https://github.com/BatchClayderman/keySpatialQuerying)
-  - NSL-KDD for an unsubmitted paper: [https://github.com/BatchClayderman/NSL-KDD](https://github.com/BatchClayderman/NSL-KDD)
 - Optimization of other GitHub repositories
   - Python charm cryptography library: [https://github.com/BatchClayderman/charm](https://github.com/BatchClayderman/charm) forked from [https://github.com/JHUISI/charm](https://github.com/JHUISI/charm)
   - Graph Mamba for Windows: [https://github.com/BatchClayderman/Graph-Mamba-for-Windows](https://github.com/BatchClayderman/Graph-Mamba-for-Windows) forked from [https://github.com/bowang-lab/Graph-Mamba](https://github.com/bowang-lab/Graph-Mamba)
   - OneTrainer: [https://github.com/BatchClayderman/OneTrainer](https://github.com/BatchClayderman/OneTrainer) forked from [https://github.com/Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer)
   - OneTester: [https://github.com/BatchClayderman/OneTester](https://github.com/BatchClayderman/OneTester) forked from [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+  - NSL-KDD: [https://github.com/BatchClayderman/NSL-KDD](https://github.com/BatchClayderman/NSL-KDD)
 
 ## For Engineering
 
