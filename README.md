@@ -23,9 +23,9 @@ This is an index to my GitHub repositories for academic purposes.
   - ForestAdvisor (46): [https://github.com/BatchClayderman/ForestAdvisor](https://github.com/BatchClayderman/ForestAdvisor)
   - UQGVE (58): [https://github.com/BatchClayderman/UQGVE](https://github.com/BatchClayderman/UQGVE)
   - SSC-JSCC (59): [https://github.com/BatchClayderman/SSC-JSCC](https://github.com/BatchClayderman/SSC-JSCC) forked from [https://github.com/YiYistudy/SSC-JSCC](https://github.com/YiYistudy/SSC-JSCC)
-  - NTSSA (60): [https://github.com/BatchClayderman/NTSSA](https://github.com/BatchClayderman/NTSSA)
-  - Visibility checking for a submitted paper: [https://github.com/BatchClayderman/checkVisible](https://github.com/BatchClayderman/checkVisible) forked from [https://github.com/YiYistudy/checkVisible](https://github.com/YiYistudy/checkVisible)
-  - Edge of stability (EOS) phenomena: [https://github.com/BatchClayderman/edge-of-stability](https://github.com/BatchClayderman/edge-of-stability) forked from [https://github.com/locuslab/edge-of-stability](https://github.com/locuslab/edge-of-stability)
+  - NTSSA (61): [https://github.com/BatchClayderman/NTSSA](https://github.com/BatchClayderman/NTSSA)
+  - Visibility checking (63): [https://github.com/BatchClayderman/checkVisible](https://github.com/BatchClayderman/checkVisible) forked from [https://github.com/YiYistudy/checkVisible](https://github.com/YiYistudy/checkVisible)
+  - Analysis of the edge of stability (EOS) phenomenon (63): [https://github.com/BatchClayderman/edge-of-stability](https://github.com/BatchClayderman/edge-of-stability) forked from [https://github.com/locuslab/edge-of-stability](https://github.com/locuslab/edge-of-stability)
   - YFYNet for an unsubmitted paper: [https://github.com/BatchClayderman/YFYNet](https://github.com/BatchClayderman/YFYNet) forked from [https://github.com/YiYistudy/YFYNet](https://github.com/YiYistudy/YFYNet)
   - YeNet for an unsubmitted paper: [https://github.com/BatchClayderman/RunYeNet](https://github.com/BatchClayderman/RunYeNet)
   - UWC for an unsubmitted paper: [https://github.com/BatchClayderman/UWC](https://github.com/BatchClayderman/UWC)
@@ -46,7 +46,6 @@ This is an index to my GitHub repositories for engineering purposes.
   - SukiSU: [https://github.com/BatchClayderman/SukiSU-Ultra](https://github.com/BatchClayderman/SukiSU-Ultra) forked from [https://github.com/SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
   - Magisk: [https://github.com/BatchClayderman/Magisk](https://github.com/BatchClayderman/Magisk) forked from [https://github.com/topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
   - Apatch: [https://github.com/BatchClayderman/APatch](https://github.com/BatchClayderman/APatch) forked from [https://github.com/bmax121/APatch](https://github.com/bmax121/APatch)
-  - ReZygisk: [https://github.com/BatchClayderman/ReZygisk](https://github.com/BatchClayderman/ReZygisk) forked from [https://github.com/PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
   - NoHello: [https://github.com/BatchClayderman/NoHello](https://github.com/BatchClayderman/NoHello) forked from [https://github.com/MhmRdd/NoHello](https://github.com/MhmRdd/NoHello)
   - LSPosed (the ``Jing Matrix`` version): [https://github.com/BatchClayderman/LSPosed](https://github.com/BatchClayderman/LSPosed) forked from [https://github.com/JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
   - Play Integrity Fix: [https://github.com/BatchClayderman/PlayIntegrityFix](https://github.com/BatchClayderman/PlayIntegrityFix) forked from [https://github.com/KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
@@ -58,10 +57,10 @@ This is an index to my GitHub repositories for engineering purposes.
   - Mobile Models: [https://github.com/BatchClayderman/MobileModels](https://github.com/BatchClayderman/MobileModels) forked from [https://github.com/KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels)
   - Collection of TMLP-related detection applications: [https://github.com/BatchClayderman/MagiskDetection](https://github.com/BatchClayderman/MagiskDetection) forked from [https://github.com/apkunpacker/MagiskDetection](https://github.com/apkunpacker/MagiskDetection)
 - Production-level Repositories
-  - SageMath: [https://github.com/BatchClayderman/SageMath](https://github.com/BatchClayderman/SageMath) forked from [https://github.com/sagemath/sage](https://github.com/sagemath/sage)
   - Pikafish: [https://github.com/BatchClayderman/Pikafish](https://github.com/BatchClayderman/Pikafish) forked from [https://github.com/official-pikafish/Pikafish](https://github.com/official-pikafish/Pikafish)
   - kiftd: [https://github.com/BatchClayderman/kiftd](https://github.com/BatchClayderman/kiftd) forked from [https://github.com/KOHGYLW/kiftd](https://github.com/KOHGYLW/kiftd)
-  - FlClash: [https://github.com/BatchClayderman/FlClash](https://github.com/BatchClayderman/FlClash)
+  - FlClash: [https://github.com/BatchClayderman/FlClash](https://github.com/BatchClayderman/FlClash) forked from [https://github.com/chen08209/FlClash](https://github.com/chen08209/FlClash)
+  - SageMath: [https://github.com/BatchClayderman/SageMath](https://github.com/BatchClayderman/SageMath) forked from [https://github.com/sagemath/sage](https://github.com/sagemath/sage)
 
 ## University Tools
 
