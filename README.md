@@ -96,9 +96,10 @@ This is an index to my GitHub repositories of personal repositories.
 
 - Source codes of my GitHub homepage: [https://github.com/BatchClayderman/BatchClayderman](https://github.com/BatchClayderman/BatchClayderman)
 - This repository: [https://github.com/BatchClayderman/repositoryIndexes](https://github.com/BatchClayderman/repositoryIndexes)
+- The repository for assisting publishing blogs in CSDN: [https://github.com/BatchClayderman/forCSDN](https://github.com/BatchClayderman/forCSDN)
 - Guidelines for AobiIsland: [https://github.com/BatchClayderman/aobiIsland](https://github.com/BatchClayderman/aobiIsland)
 - Some backups: [https://github.com/BatchClayderman/backups](https://github.com/BatchClayderman/backups)
-- A backup of KMDF file deletion during the way to GooseBt: [https://github.com/BatchClayderman/windows-kernel-file-delete](https://github.com/BatchClayderman/windows-kernel-file-delete) forked from [https://github.com/Rhydon1337/windows-kernel-file-delete](https://github.com/Rhydon1337/windows-kernel-file-delete)
+- A backup of the KMDF file deletion during the way to GooseBt: [https://github.com/BatchClayderman/windows-kernel-file-delete](https://github.com/BatchClayderman/windows-kernel-file-delete) forked from [https://github.com/Rhydon1337/windows-kernel-file-delete](https://github.com/Rhydon1337/windows-kernel-file-delete)
 
 ## Organization Repositories
 
