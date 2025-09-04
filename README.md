@@ -32,7 +32,7 @@ This is an index to my GitHub repositories for academic purposes.
   - UWC for an unsubmitted paper: [https://github.com/BatchClayderman/UWC](https://github.com/BatchClayderman/UWC)
   - Dynamic merge-join algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/dynamicMergeJoin](https://github.com/BatchClayderman/dynamicMergeJoin)
   - Key-spatial querying algorithm for an unsubmitted paper: [https://github.com/BatchClayderman/keySpatialQuerying](https://github.com/BatchClayderman/keySpatialQuerying)
-- Optimization of other GitHub repositories
+- Optimized versions of other GitHub repositories
   - Python charm cryptography library: [https://github.com/BatchClayderman/charm](https://github.com/BatchClayderman/charm) forked from [https://github.com/JHUISI/charm](https://github.com/JHUISI/charm)
   - Graph Mamba for Windows: [https://github.com/BatchClayderman/Graph-Mamba-for-Windows](https://github.com/BatchClayderman/Graph-Mamba-for-Windows) forked from [https://github.com/bowang-lab/Graph-Mamba](https://github.com/bowang-lab/Graph-Mamba)
   - OneTrainer: [https://github.com/BatchClayderman/OneTrainer](https://github.com/BatchClayderman/OneTrainer) forked from [https://github.com/Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer)
@@ -68,12 +68,12 @@ This is an index to my GitHub repositories for engineering purposes.
 This is an index to my GitHub repositories about university tools. 
 
 - Undergraduate
-  - Tools in My First Term: [https://github.com/BatchClayderman/MyFirstTerm](https://github.com/BatchClayderman/MyFirstTerm)
-  - Tools in My Second Term: [https://github.com/BatchClayderman/MySecondTerm](https://github.com/BatchClayderman/MySecondTerm)
-  - Tools in My Third Term: [https://github.com/BatchClayderman/MyThirdTerm](https://github.com/BatchClayderman/MyThirdTerm)
-  - Tools in My Fourth Term: [https://github.com/BatchClayderman/MyFourthTerm](https://github.com/BatchClayderman/MyFourthTerm)
-  - Tools in My Fifth Term: [https://github.com/BatchClayderman/MyFifthTerm](https://github.com/BatchClayderman/MyFifthTerm)
-  - Tools in My Sixth Term: [https://github.com/BatchClayderman/MySixthTerm](https://github.com/BatchClayderman/MySixthTerm)
+  - Coding in My First Term: [https://github.com/BatchClayderman/MyFirstTerm](https://github.com/BatchClayderman/MyFirstTerm)
+  - Coding in My Second Term: [https://github.com/BatchClayderman/MySecondTerm](https://github.com/BatchClayderman/MySecondTerm)
+  - Coding in My Third Term: [https://github.com/BatchClayderman/MyThirdTerm](https://github.com/BatchClayderman/MyThirdTerm)
+  - Coding in My Fourth Term: [https://github.com/BatchClayderman/MyFourthTerm](https://github.com/BatchClayderman/MyFourthTerm)
+  - Coding in My Fifth Term: [https://github.com/BatchClayderman/MyFifthTerm](https://github.com/BatchClayderman/MyFifthTerm)
+  - Coding in My Sixth Term: [https://github.com/BatchClayderman/MySixthTerm](https://github.com/BatchClayderman/MySixthTerm)
   - LaTeX Template of Thesis: [https://github.com/BatchClayderman/LaTeX4JNUBachelor](https://github.com/BatchClayderman/LaTeX4JNUBachelor)
   - ``img_info_entropy`` written in my fifth term: [https://github.com/BatchClayderman/img_info_entropy](https://github.com/BatchClayderman/img_info_entropy)
   - Some ACM Success Codes: [https://github.com/BatchClayderman/someAC](https://github.com/BatchClayderman/someAC)
